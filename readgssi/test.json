@@ -1,0 +1,68 @@
+{
+    "antfreq": [
+        100,
+        null,
+        null,
+        null
+    ],
+    "cr": 105977337.16460055,
+    "cr_true": 105977337.16460055,
+    "data_offset": 1024,
+    "dzt_depth": 29.16819953918457,
+    "dzt_epsr": 8.0,
+    "dzt_spm": 150.0,
+    "infile": "/home/birdfly/Data/Radar/101-300/101-300/\u65e0\u5f02\u5e38/FILE____289.DZT",
+    "known_ant": [
+        false,
+        null,
+        null,
+        null
+    ],
+    "ns_per_zsample": 5.375596448180922e-10,
+    "rgain_bytes": "b''",
+    "rh_ant": [
+        "100MHZ",
+        null,
+        null,
+        null
+    ],
+    "rh_antname": [
+        "100MHZ",
+        null,
+        null,
+        null
+    ],
+    "rh_bits": 16,
+    "rh_data": 1024,
+    "rh_nchan": 1,
+    "rh_npass": 1,
+    "rh_nproc": 47,
+    "rh_nrgain": 0,
+    "rh_nsamp": 1024,
+    "rh_ntext": 0,
+    "rh_proc": 128,
+    "rh_rgain": 0,
+    "rh_system": 3,
+    "rh_tag": 1792,
+    "rh_text": 688,
+    "rh_version": 0,
+    "rh_zero": 0,
+    "rhb_cdt": "2018-04-13 11:04:00+00:00",
+    "rhb_mdt": "2018-04-13 11:04:16+00:00",
+    "rhf_depth": 29.16819953918457,
+    "rhf_epsr": 8.0,
+    "rhf_mpm": 0.125,
+    "rhf_position": 0.0,
+    "rhf_range": 550.0,
+    "rhf_spm": 150.0,
+    "rhf_sps": 64.0,
+    "rhf_top": -0.4929420053958893,
+    "samp_freq": 1860258688.7607527,
+    "sec": 15.15625,
+    "timezero": [
+        2,
+        null,
+        null,
+        null
+    ]
+}

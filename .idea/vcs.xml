@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/GPRPy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GPRPy/gprpy/irlib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/readgssi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/siina" vcs="Git" />
-  </component>
-</project>
